@@ -14,5 +14,15 @@ public class CommonAPIChrome {
     public void before(){
         System.setProperty("webdriver.chrome.driver", "/Users/shafiq/IdeaProjects/AutomationTeam6/driver/driver_Mac/chromedriver");
         chromeDriver = new ChromeDriver();
+        chromeDriver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+    }
+
+    public void sleep(){
+        try {
+            Thread.sleep(2000);
+        }
+        catch (InterruptedException e){
+            e.printStackTrace();
+        }
     }
 }

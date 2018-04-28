@@ -10,7 +10,17 @@ public class CommonAPIFirefox {
 
     @BeforeMethod
         public void before(){
-        System.setProperty("webdriver.gecko.driver", "C:\\Users\\moham\\IdeaProjects\\AutomationTeam6\\driver\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "/Users/shafiq/IdeaProjects/AutomationTeam6/driver/driver_Mac/geckodriver");
         geckoDriver = new FirefoxDriver();
+    }
+
+
+    public void sleep(){
+        try {
+            Thread.sleep(2000);
+        }
+        catch (InterruptedException e){
+            e.printStackTrace();
+        }
     }
 }
