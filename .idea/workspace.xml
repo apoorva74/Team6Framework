@@ -5,8 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/BestBuy_Retail/src/main/java/home/MainBestBuy.java" afterPath="$PROJECT_DIR$/BestBuy_Retail/src/main/java/home/MainBestBuy.java" />
       <change beforePath="$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java" afterPath="$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java" />
+      <change beforePath="$PROJECT_DIR$/BestBuy_Retail/target/classes/home/MainBestBuy.class" afterPath="$PROJECT_DIR$/BestBuy_Retail/target/classes/home/MainBestBuy.class" />
       <change beforePath="$PROJECT_DIR$/BestBuy_Retail/target/test-classes/bestbuyTests/BestBuy.class" afterPath="$PROJECT_DIR$/BestBuy_Retail/target/test-classes/bestbuyTests/BestBuy.class" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIApoorva.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIApoorva.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +32,8 @@
       <file leaf-file-name="Amazon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1677">
-              <caret line="23" column="62" lean-forward="false" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+            <state relative-caret-position="216">
+              <caret line="95" column="3" lean-forward="false" selection-start-line="95" selection-start-column="3" selection-end-line="98" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,8 +109,8 @@
       <file leaf-file-name="BestBuy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1401">
-              <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+            <state relative-caret-position="599">
+              <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +121,8 @@
       <file leaf-file-name="MainBestBuy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/main/java/home/MainBestBuy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+            <state relative-caret-position="466">
+              <caret line="174" column="5" lean-forward="true" selection-start-line="174" selection-start-column="5" selection-end-line="174" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,8 +173,8 @@
         <option value="$PROJECT_DIR$/BestBuy_Retail/src/main/java/home/BestBuy.java" />
         <option value="$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/AccountTest.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIApoorva.java" />
-        <option value="$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java" />
         <option value="$PROJECT_DIR$/BestBuy_Retail/src/main/java/home/MainBestBuy.java" />
+        <option value="$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java" />
       </list>
     </option>
   </component>
@@ -229,6 +229,100 @@
               <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon_ECommerce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon_ECommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon_ECommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon_ECommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon_ECommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="amazonTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy_Retail" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bestbuyTests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -259,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BestBuy.product">
+  <component name="RunManager" selected="TestNG.BestBuy.myBestBuy">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -308,7 +402,7 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="BestBuy.account" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BestBuy.Searchbar" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="bestbuyTests.*" />
@@ -321,7 +415,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="bestbuyTests" />
       <option name="MAIN_CLASS_NAME" value="bestbuyTests.BestBuy" />
-      <option name="METHOD_NAME" value="account" />
+      <option name="METHOD_NAME" value="Searchbar" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -340,7 +434,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="BestBuy.homepageTesting" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BestBuy.myBestBuy" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="bestbuyTests.*" />
@@ -353,7 +447,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="bestbuyTests" />
       <option name="MAIN_CLASS_NAME" value="bestbuyTests.BestBuy" />
-      <option name="METHOD_NAME" value="homepageTesting" />
+      <option name="METHOD_NAME" value="myBestBuy" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -502,19 +596,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.BestBuy.homepageTesting" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.BestBuy.product" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.BestBuy.account" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.BestBuy.testAccount" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.BestBuy.testSignIn" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.BestBuy.product" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.BestBuy.testAccount" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.BestBuy.testSignIn" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.BestBuy.Searchbar" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.BestBuy.myBestBuy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.BestBuy.product" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.BestBuy.testSignIn" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.BestBuy.testAccount" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.BestBuy.homepageTesting" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.BestBuy.account" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.BestBuy.myBestBuy" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.BestBuy.Searchbar" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.BestBuy.product" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.BestBuy.testSignIn" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.BestBuy.testAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -535,34 +629,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BestBuy_product - 2018.04.26 at 18h 36m 52s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_Searchbar - 2018.04.27 at 14h 30m 01s.xml">
+      <configuration name="BestBuy.Searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.26 at 18h 43m 18s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_Searchbar - 2018.04.27 at 14h 51m 12s.xml">
+      <configuration name="BestBuy.Searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.26 at 18h 46m 41s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_Searchbar - 2018.04.27 at 15h 22m 55s.xml">
+      <configuration name="BestBuy.Searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.26 at 19h 00m 53s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_Searchbar - 2018.04.27 at 15h 24m 46s.xml">
+      <configuration name="BestBuy.Searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.26 at 19h 01m 42s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_Searchbar - 2018.04.27 at 15h 27m 59s.xml">
+      <configuration name="BestBuy.Searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.26 at 19h 19m 16s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_myBestBuy - 2018.04.27 at 16h 53m 21s.xml">
+      <configuration name="BestBuy.myBestBuy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.26 at 19h 23m 06s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_myBestBuy - 2018.04.27 at 16h 55m 08s.xml">
+      <configuration name="BestBuy.myBestBuy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.27 at 10h 48m 07s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_myBestBuy - 2018.04.27 at 16h 59m 15s.xml">
+      <configuration name="BestBuy.myBestBuy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.27 at 10h 49m 14s.xml">
-      <configuration name="BestBuy.product" configurationId="TestNG" />
+    <history-entry file="BestBuy_myBestBuy - 2018.04.27 at 17h 05m 13s.xml">
+      <configuration name="BestBuy.myBestBuy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BestBuy_product - 2018.04.27 at 10h 51m 51s.xml">
+    <history-entry file="BestBuy_product - 2018.04.27 at 14h 12m 47s.xml">
       <configuration name="BestBuy.product" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -579,32 +673,32 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36320192" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07081081" sideWeight="0.5102319" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.075675674" sideWeight="0.5102319" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16594595" sideWeight="0.49046323" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21146953" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53046596" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4958184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20486486" sideWeight="0.81105167" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20486486" sideWeight="0.7488152" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23675676" sideWeight="0.7531915" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24253285" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20486486" sideWeight="0.1889483" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27240142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20486486" sideWeight="0.25118482" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -612,17 +706,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java</url>
-          <line>86</line>
-          <properties class="bestbuyTests.BestBuy" method="product">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -907,8 +991,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1677">
-          <caret line="23" column="62" lean-forward="false" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        <state relative-caret-position="216">
+          <caret line="95" column="3" lean-forward="false" selection-start-line="95" selection-start-column="3" selection-end-line="98" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -917,8 +1001,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/main/java/home/MainBestBuy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="466">
+          <caret line="174" column="5" lean-forward="true" selection-start-line="174" selection-start-column="5" selection-end-line="174" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -927,8 +1011,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1401">
-          <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+        <state relative-caret-position="599">
+          <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
