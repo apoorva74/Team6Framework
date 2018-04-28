@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ddf1902f-739f-4d2f-b513-cfe9875c120e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java" afterPath="$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java" />
-      <change beforePath="$PROJECT_DIR$/Facebook_SocialMedia/target/test-classes/facebookTests/Facebook.class" afterPath="$PROJECT_DIR$/Facebook_SocialMedia/target/test-classes/facebookTests/Facebook.class" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIFirefox.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIFirefox.java" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/commonAPI/CommonAPIChrome.class" afterPath="$PROJECT_DIR$/Generic/target/classes/commonAPI/CommonAPIChrome.class" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/commonAPI/CommonAPIFirefox.class" afterPath="$PROJECT_DIR$/Generic/target/classes/commonAPI/CommonAPIFirefox.class" />
-      <change beforePath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/src/test/java/unitedHealthCareTests/UnitedHealthCare.java" afterPath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/src/test/java/unitedHealthCareTests/UnitedHealthCare.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -218,7 +211,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="84" />
     <option name="y" value="47" />
     <option name="width" value="1439" />
@@ -707,8 +700,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="47" width="1439" height="959" extended-state="0" />
-    <editor active="true" />
+    <frame x="84" y="47" width="1439" height="959" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -719,8 +711,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15175375" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22685185" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22685185" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21331425" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
